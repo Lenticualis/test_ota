@@ -1,3 +1,3 @@
 #test_ota.py
 
-print("Hallo from Github")
+print("Hallo from new Github")
