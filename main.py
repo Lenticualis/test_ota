@@ -1,3 +1,3 @@
 #main.py
 
-print("Hallo Welt, neue Datei geladen über OTA")
+print("Hallo Welt, neueste Datei geladen über OTA")
